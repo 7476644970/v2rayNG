@@ -1,3 +1,1 @@
-# v2rayNG
-
-___Toàn bộ code và mã nguồn thuộc về [2dust](https://github.com/2dust) tôi chỉ chỉnh sửa lại ngôn ngữ dễ hiểu nhất dựa thêm kinh nghiệm 2 năm dùng [v2ray](https://v2ray.com).___
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=300&color=FF91CB&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Test" alt="Typing SVG" /></a>
