@@ -1,1 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=300&color=FF91CB&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Test" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=300&pause=100&color=F4F71B&center=true&vCenter=true&width=435&height=100&lines=Demo+d%E1%BB%B1+%C3%A1n+v2rayNG+noob">
+  <source media="(prefers-color-scheme: light)" srcset="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=300&pause=100&color=F4F71B&center=true&vCenter=true&width=435&height=100&lines=Demo+d%E1%BB%B1+%C3%A1n+v2rayNG+noob">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=300&pause=100&color=F4F71B&center=true&vCenter=true&width=435&height=100&lines=Demo+d%E1%BB%B1+%C3%A1n+v2rayNG+noob">
+</picture>
