@@ -7,5 +7,5 @@
 
 # v2rayNG
 
-* **Tất cả sources thuộc về [2dust](https://github.com/2dust)**
-* **Hỗ trợ Android 4.2+**
+* **All source code belongs to [2dust](https://github.com/2dust) Mục đích tôi để ứng dụng trên đây không phải đánh cắp bản quyền**
+* **Hỗ trợ Android 4.2.2+**
